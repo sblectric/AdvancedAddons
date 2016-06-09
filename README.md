@@ -11,4 +11,4 @@ It also adds:<br/>
 
 This repo is for the latest version of the mod, 1.9.4.
 
-[Project on CurseForge](http://minecraft.curseforge.com/projects/advanced-swords)
+[Project on CurseForge](http://minecraft.curseforge.com/projects/advanced-addons)
