@@ -1,0 +1,16 @@
+[
+{
+  "modid": "advancedaddons",
+  "name": "Advanced Addons",
+  "description": "Useful additions to Advanced Swords",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sblectric"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

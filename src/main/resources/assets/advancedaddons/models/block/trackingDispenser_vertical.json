@@ -1,0 +1,7 @@
+{
+    "parent": "block/orientable_vertical",
+    "textures": {
+        "front": "advancedaddons:blocks/trackingDispenser_vertical",
+        "side": "advancedaddons:blocks/trackingDispenser_top"
+    }
+}

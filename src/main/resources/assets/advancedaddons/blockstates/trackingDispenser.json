@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=down,triggered=false":  { "model": "advancedaddons:trackingDispenser_vertical", "x": 180 },
+        "facing=up,triggered=false":    { "model": "advancedaddons:trackingDispenser_vertical" },
+        "facing=north,triggered=false": { "model": "advancedaddons:trackingDispenser" },
+        "facing=south,triggered=false": { "model": "advancedaddons:trackingDispenser", "y": 180 },
+        "facing=west,triggered=false":  { "model": "advancedaddons:trackingDispenser", "y": 270 },
+        "facing=east,triggered=false":  { "model": "advancedaddons:trackingDispenser", "y": 90 },
+		"facing=down,triggered=true":  { "model": "advancedaddons:trackingDispenser_vertical", "x": 180 },
+        "facing=up,triggered=true":    { "model": "advancedaddons:trackingDispenser_vertical" },
+        "facing=north,triggered=true": { "model": "advancedaddons:trackingDispenser" },
+        "facing=south,triggered=true": { "model": "advancedaddons:trackingDispenser", "y": 180 },
+        "facing=west,triggered=true":  { "model": "advancedaddons:trackingDispenser", "y": 270 },
+        "facing=east,triggered=true":  { "model": "advancedaddons:trackingDispenser", "y": 90 }
+    }
+}

@@ -1,0 +1,31 @@
+# creative tab renaming
+itemGroup.aaMain=Advanced Combat
+
+# blocks
+tile.netherFortressBlock.name=Nether Fortress Block
+tile.reinforcedObsidian.name=Reinforced Obsidian
+tile.trackingDispenser.name=Tracking Dispenser
+
+# items
+item.advancedBow.name=Advanced Bow
+
+# armor
+item.woodenHelm.name=Wooden Helmet
+item.woodenChest.name=Wooden Chestplate
+item.woodenLegs.name=Wooden Leggings
+item.woodenBoots.name=Wooden Boots
+
+item.stoneHelm.name=Stone Helmet
+item.stoneChest.name=Stone Chestplate
+item.stoneLegs.name=Stone Leggings
+item.stoneBoots.name=Stone Boots
+
+item.netherHelm.name=Nether Fortress Helmet
+item.netherChest.name=Nether Fortress Chestplate
+item.netherLegs.name=Nether Fortress Leggings
+item.netherBoots.name=Nether Fortress Boots
+
+item.obsidianHelm.name=Obsidian Helmet
+item.obsidianChest.name=Obsidian Chestplate
+item.obsidianLegs.name=Obsidian Leggings
+item.obsidianBoots.name=Obsidian Boots

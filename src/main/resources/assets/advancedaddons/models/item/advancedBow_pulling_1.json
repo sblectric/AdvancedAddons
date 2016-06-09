@@ -1,0 +1,6 @@
+{
+    "parent": "advancedaddons:item/advancedBow",
+    "textures": {
+        "layer0": "advancedaddons:items/advancedBow_pulling_1"
+    }
+}
