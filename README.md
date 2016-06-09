@@ -10,3 +10,5 @@ It also adds:<br/>
 • a tracking dispenser that shoots at the nearest living entity within 32 blocks of it, rather than in only a single direction.
 
 This repo is for the latest version of the mod, 1.9.4.
+
+[Project on CurseForge](http://minecraft.curseforge.com/projects/advanced-swords)
